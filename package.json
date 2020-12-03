@@ -9,10 +9,11 @@
     "axios": "^0.19.2",
     "html-react-parser": "^0.10.3",
     "jest-environment-jsdom-sixteen": "^1.0.3",
-    "react": "^16.13.1",
+    "react": "^16.14.0",
     "react-dom": "^16.13.1",
     "react-dropdown": "^1.7.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "scripts": "^0.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
